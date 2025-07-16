@@ -3,7 +3,7 @@ import requests
 
 API_URL = "http://13.60.190.12:8000/predict"  # Adjust the URL if running on a different host/port
 
-st.title("Predicting the Nature of Human Personality")
+st.title("😊🧬  Predicting the Nature of Human Personality")
 
 st.markdown("Please fill in the following details:")
 
