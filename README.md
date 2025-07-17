@@ -6,9 +6,9 @@ This project is a full-stack machine learning web application that predicts huma
 # 🌐 Deployed Version
 You can access the app and API here:
 
-🔗 Streamlit App: [http://personality_pred:8501](https://personalitypredictionfastapi-drwefeh7mgpnxyrdjudfsz.streamlit.app)
+🔗 Streamlit App: [http://personalitypredictionfastapi:8501](https://personalitypredictionfastapi-drwefeh7mgpnxyrdjudfsz.streamlit.app)
 
-🔗 FastAPI Endpoint: http://<your-ec2-ip>:8000/predict
+🔗 FastAPI Endpoint: [http://13.60.190.12:8000/predict](http://13.60.190.12:8000/predict)
 
 Make sure your EC2 instance has ports 8501 and 8000 open in the security group.
 
