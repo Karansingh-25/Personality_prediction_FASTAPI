@@ -10,7 +10,6 @@ You can access the app and API here:
 
 🔗 FastAPI Endpoint: [http://13.60.190.12:8000/predict](http://13.60.190.12:8000/predict)
 
-Make sure your EC2 instance has ports 8501 and 8000 open in the security group.
 
 # 📌 Features
 🎯 Predicts personality category (e.g., Introvert, Extrovert, Ambivert) based on input behavior.
