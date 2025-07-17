@@ -6,7 +6,7 @@ This project is a full-stack machine learning web application that predicts huma
 # 🌐 Deployed Version
 You can access the app and API here:
 
-🔗 Streamlit App: http://<your-ec2-ip>:8501
+🔗 Streamlit App: [http://<your-ec2-ip>:8501](https://personalitypredictionfastapi-drwefeh7mgpnxyrdjudfsz.streamlit.app)
 
 🔗 FastAPI Endpoint: http://<your-ec2-ip>:8000/predict
 
